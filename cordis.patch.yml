@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-backup
+      name: '@matsiwolffie/dsh-backup'
+      config: {}

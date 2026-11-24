@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Backup and restore points",
+    "description": "Backs up this DSH desktop installation into a folder inside the workspace and restores it from restore points. Each point holds the profile configuration, session logs, local storage, and attachments; the local sign-in records are copied only when the card option is enabled. Back up and restore from the card on this bundle's page under Plugins: “Back up now” writes a point, and “Restore” on a point overwrites the current data after saving a safety point — quit and reopen DSH afterwards to apply the restore; sessions DSH still has open are kept and are restored by running the restore again after the restart. When DSH cannot start, double-click “恢复DSH.cmd” in the backup folder (the workspace's dsh-backups folder) and choose a point; it restores while DSH is closed. The offline program needs only Windows PowerShell. Restore points are plain folders in the workspace and contain the sign-in records in plain text, so keep the backup folder private; the profile's node_modules, logs, and downloaded runtimes are not included."
+  }
+}

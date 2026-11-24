@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Backup and restore">
+  <rect width="64" height="64" rx="14" fill="#1f6fd0"/>
+  <g fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 32a18 18 0 1 1-5.3-12.7"/>
+    <path d="M45 11l1.6 9.5-9.4-.9"/>
+  </g>
+  <g fill="#ffffff">
+    <ellipse cx="32" cy="29" rx="9" ry="3.6"/>
+    <path d="M23 29v8.5c0 2 4 3.6 9 3.6s9-1.6 9-3.6V29c0 2-4 3.6-9 3.6S23 31 23 29z" opacity="0.9"/>
+  </g>
+</svg>
