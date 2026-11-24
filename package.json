@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Backup and restore points for the DSH desktop app: profile configuration, sessions, local storage, and attachments are copied into a workspace folder together with an offline restore program.",
   "license": "MIT",
-  "author": "DeepSeek Harness Agent <dsh-agent@users.noreply.github.com>",
+  "author": "MatsiWolffie",
   "contributors": [
-    "MatsiWolffie (https://github.com/MatsiWolffie)"
+    "DeepSeek Harness Agent"
   ],
   "keywords": [
     "dsh",

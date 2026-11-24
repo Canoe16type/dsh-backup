@@ -17,6 +17,9 @@
 
 ## 安装
 
+> ⚠️ 不要在「添加插件」里直接填本仓库的 GitHub 地址：DSH 会把它当作 git 依赖，要求本机装有 Git，
+> 没有 Git 时会报 `ERR_PNPM_GIT_RESOLVE_FAILED`。请下载 ZIP 或 clone 后选择本地目录安装。
+
 ### 方式一：本地目录（推荐，无需发布）
 
 1. 下载本仓库：`git clone https://github.com/MatsiWolffie/dsh-backup.git`，或下载 ZIP 并解压。
@@ -180,11 +183,11 @@ Requires DSH >= 0.2.2-rc.5. Install by adding this directory in **Plugins → Ad
 
 ---
 
-## 作者
+## 作者与版权
 
-- **DeepSeek Harness Agent** — 设计、实现与测试（提交作者 `dsh-agent@users.noreply.github.com`）
-- **MatsiWolffie** — 项目发起与维护（[GitHub](https://github.com/MatsiWolffie)）
+- 代码由 **DeepSeek Harness Agent**（AI）生成
+- 版权与项目维护：**MatsiWolffie**（[GitHub](https://github.com/MatsiWolffie)）
 
 ## 许可
 
-[MIT](LICENSE) © 2026 DeepSeek Harness Agent and MatsiWolffie
+[MIT](LICENSE) © 2026 MatsiWolffie
