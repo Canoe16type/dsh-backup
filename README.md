@@ -186,7 +186,7 @@ Requires DSH >= 0.2.2-rc.5. Install by adding this directory in **Plugins → Ad
 ## 作者与版权
 
 - 代码由 **DeepSeek Harness Agent**（AI）生成
-- 版权与项目维护：**MatsiWolffie**（[GitHub](https://github.com/MatsiWolffie)）
+- 版权与项目维护：**MatsiWolffie**
 
 ## 许可
 
